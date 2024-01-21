@@ -41,3 +41,8 @@ Sample Output:
 <img width="537" alt="image" src="https://github.com/lk-h01/Zennode_task/assets/128998118/a209792e-88a1-49be-81bc-9f1d16d570cb">
 
 
+-----------------------------------------------------------
+**TASK 2**
+-----------------------------------------------------------
+1. For the task2 I have written all my answers in a word doc and placed it inside the task2 folder.
+2. Please download to view the answers.
