@@ -156,7 +156,7 @@ class Coupon {
     }
 }
 
-public class Main {
+class Main {
     public static void main(String[] args) throws IOException {
         Product product1 = new Product(1,"ProductA",20);
         Product product2 = new Product(2,"ProductB",40);
